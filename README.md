@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-lima-36b573215" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Joao Vitor de Oliveira Lima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://app.rocketseat.com.br/me/jvolima2004" targe="blank">
+<a href="https://app.rocketseat.com.br/me/jvolima2004-1625102958210" targe="blank">
    <img align="center" src="https://img.shields.io/badge/-Perfil%20Rocketseat-brightgreen" alt="Rocketseat">
 </p>
 
