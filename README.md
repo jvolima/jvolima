@@ -46,8 +46,11 @@
  <img align="center" src="https://img.shields.io/badge/-jvolima1-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-lima-36b573215" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaovitorlima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Joao Vitor de Oliveira Lima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://app.rocketseat.com.br/me/jvolima2004" targe="blank">
+   <img align="center" src="https://img.shields.io/badge/-Perfil%20Rocketseat-brightgreen" alt="Rocketseat">
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Jvolima1&layout=wide&show_reply=off&show_retweet=off" />
+<!--<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Jvolima1&layout=wide&show_reply=off&show_retweet=off" />-->
+
