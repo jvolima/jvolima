@@ -32,7 +32,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="350em" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47oq5k1r1zrlgmmzf7y03l6aa04imsge3h3wxaubok&rid=giphy.gif&ct=g" align="right"/>
+<img width="350em" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47oq5k1r1zrlgmmzf7y03l6aa04imsge3h3wxaubok&rid=giphy.gif&ct=g" align="right"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jvolima&show_icons=true&theme=vision-friendly-dark" alt="joaovitor's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolima&layout=compact&theme=vision-friendly-dark" alt="joaovitor's most languages"/>
 </p>
