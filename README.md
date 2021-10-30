@@ -51,7 +51,7 @@
   <img align="center" src="https://img.shields.io/badge/-Joao Vitor de Oliveira Lima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://app.rocketseat.com.br/me/jvolima2004-1625102958210" targe="blank">
-   <img align="center" src="https://img.shields.io/badge/-Perfil%20Rocketseat 🚀-brightgreen" alt="Rocketseat">
+   <img align="center" src="https://img.shields.io/badge/-Perfil%20Rocketseat 🚀-black" alt="Rocketseat">
 </p>
 
 <!--<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Jvolima1&layout=wide&show_reply=off&show_retweet=off" />-->
