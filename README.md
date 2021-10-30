@@ -1,5 +1,3 @@
-<img align="top" height="300em" width="500em" padding-bottom="30px"
-src="https://media.giphy.com/media/xT9DPDoWMicL4nU3NC/giphy.gif">
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jvolima/7d629e0aab32914bd096833298f1e871/raw/5be74fbb714401ec58365044175b55865f6cb2e0/githubcard.svg"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> </p>
