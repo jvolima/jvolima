@@ -3,7 +3,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> </p>
 
-```
 - 🔥 Junior Back-end Developer
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
@@ -13,7 +12,8 @@
 - ▶️ I regulary post videos on [Do zero ao Dev](https://www.youtube.com/channel/UC9zaxB-gZdJf3DqveVMXfJQ)
 
 - 💬 Ask me about **Node.JS, TypeScript, Java, JavaScript**
-```
+
+<br>
 
 <div>
   <h3>
