@@ -1,6 +1,6 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jvolima/7d629e0aab32914bd096833298f1e871/raw/5be74fbb714401ec58365044175b55865f6cb2e0/githubcard.svg"/>-->
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor Lima</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> </p>
 
 ```
@@ -14,6 +14,27 @@
 
 - 💬 Ask me about **Node.JS, TypeScript, Java, JavaScript**
 ```
+
+<div>
+  <h3>
+    📬 Connect with me:
+  </h3>
+  <br />
+  <a href="mailto:jvolima2004@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
+  </a>
+  <a href="https://www.instagram.com/jvolima1/">
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
+      alt="instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-lima-36b573215">
+    <img 
+      src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
+      alt="linked-in">
+  </a>
+</div>
 
 <br><br>
 
