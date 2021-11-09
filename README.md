@@ -34,6 +34,11 @@
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
       alt="linked-in">
   </a>
+   <a href="https://app.rocketseat.com.br/me/jvolima2004-1625102958210">
+    <img src="./Rocketseat-icon.png"  
+    height="27.5" 
+    alt="rocketseat">
+  </a>
 </div>
 
 <br><br>
@@ -65,22 +70,6 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolima&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/Jvolima1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jvolima1-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://instagram.com/jvolima1" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-jvolima1-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-lima-36b573215" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Joao Vitor de Oliveira Lima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://app.rocketseat.com.br/me/jvolima2004-1625102958210" targe="blank">
-   <img align="center" src="https://img.shields.io/badge/-Perfil%20Rocketseat 🚀-black" alt="Rocketseat">
-</p>
-  
   
 ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
 
