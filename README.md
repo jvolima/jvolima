@@ -40,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/engenny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvolima&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolima&layout=compact&theme=vision-friendly-dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jvolima&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolima&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
