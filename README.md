@@ -66,13 +66,13 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/engenny">
+  <a href="https://github.com/jvolima">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jvolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
-![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jvolima/jvolima/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Jvolima1&layout=wide&show_reply=off&show_retweet=off" />-->
