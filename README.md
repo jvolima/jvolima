@@ -71,9 +71,5 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvolima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
-![Snake animation](https://github.com/jvolima/jvolima/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Jvolima1&layout=wide&show_reply=off&show_retweet=off" />-->
 
