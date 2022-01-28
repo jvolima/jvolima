@@ -11,7 +11,7 @@
 
 - ▶️ I regulary post videos on [Do zero ao Dev](https://www.youtube.com/channel/UC9zaxB-gZdJf3DqveVMXfJQ)
 
-- 💬 Ask me about **Node.JS, TypeScript, Java, JavaScript**
+- 💬 Ask me about **Node.JS, React, TypeScript, JavaScript**
 
 <br>
 
