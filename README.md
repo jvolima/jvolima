@@ -1,6 +1,6 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jvolima/7d629e0aab32914bd096833298f1e871/raw/5be74fbb714401ec58365044175b55865f6cb2e0/githubcard.svg"/>-->
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor Lima</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor de Oliveira Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior FullStack Developer
