@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
-- 💻 Developing Devlândia
+- 💻 Developing [Devlândia](https://github.com/jvolima/dev-landia)
 
 - 👨‍💻 All of my projects are available at [my_repository](https://github.com/jvolima?tab=repositories)
 
