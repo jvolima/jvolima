@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
+- 💻 Developing Devlândia
+
 - 👨‍💻 All of my projects are available at [my_repository](https://github.com/jvolima?tab=repositories)
 
 - ▶️ I regulary post videos on [Do zero ao Dev](https://www.youtube.com/channel/UC9zaxB-gZdJf3DqveVMXfJQ)
 
-- 💬 Ask me about **Node.JS, React, React Native, Next, TypeScript, JavaScript**
+- 💬 Ask me about **Node.JS, React, React Native, Next, TypeScript, JavaScript, Java**
 
 <br>
 
