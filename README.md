@@ -5,11 +5,15 @@
 
 - 🔥 Junior FullStack Developer
 
+- 🇧🇷 Born in Brazil 
+
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
 - 💻 Developing [Devlândia](https://github.com/jvolima/dev-landia)
 
 - 👨‍💻 All of my projects are available at [my_repository](https://github.com/jvolima?tab=repositories)
+
+- 🏀 Basketball lover
 
 - ▶️ I regulary post videos on [Do zero ao Dev](https://www.youtube.com/channel/UC9zaxB-gZdJf3DqveVMXfJQ)
 
