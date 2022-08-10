@@ -5,17 +5,15 @@
 
 - 🔥 Junior FullStack Developer
 
-- 🇧🇷 Live in Brazil
+- 📝 My [resume](https://docs.google.com/document/d/1f0aUYnAK11xA2LeqOFuRbAIVk-0EBw-KNnlYfM8cXvs/edit?usp=sharing)
 
-- 📝 I speak portuguese, english and spanish
+- Access my [portfolio](https://gracious-leavitt-4f38ad.netlify.app/)
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
 - 💻 Developing [Devlândia](https://github.com/jvolima/dev-landia)
 
 - 👨‍💻 All of my projects are available at [my_repository](https://github.com/jvolima?tab=repositories)
-
-- 🏀 Basketball lover
 
 - ▶️ I regulary post videos on [Do zero ao Dev](https://www.youtube.com/channel/UC9zaxB-gZdJf3DqveVMXfJQ)
 
