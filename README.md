@@ -7,7 +7,7 @@
 
 - 📝 My [resume](https://docs.google.com/document/d/1f0aUYnAK11xA2LeqOFuRbAIVk-0EBw-KNnlYfM8cXvs/edit?usp=sharing)
 
-- Access my [portfolio](https://gracious-leavitt-4f38ad.netlify.app/)
+- 📱 Access my [portfolio](https://gracious-leavitt-4f38ad.netlify.app/)
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
