@@ -7,7 +7,7 @@
 
 - 🗣️ Advanced English
 
-- 📝 My [resume](https://docs.google.com/document/d/1f0aUYnAK11xA2LeqOFuRbAIVk-0EBw-KNnlYfM8cXvs/edit?usp=sharing)
+- 📝 My [resume](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
 
 - 📱 Access my [portfolio](https://gracious-leavitt-4f38ad.netlify.app/)
 
