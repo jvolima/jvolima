@@ -3,7 +3,9 @@
 <h1 align="center">Hi dear 👋, I'm João Vitor de Oliveira Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior FullStack Developer
+- 🔥 Junior Frontend Developer
+
+- 🗣️ Advanced English
 
 - 📝 My [resume](https://docs.google.com/document/d/1f0aUYnAK11xA2LeqOFuRbAIVk-0EBw-KNnlYfM8cXvs/edit?usp=sharing)
 
@@ -11,7 +13,7 @@
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
-- 💻 Developing [Devlândia](https://github.com/jvolima/dev-landia)
+- 💻 Developing [Devlândia](https://github.com/jvolima/dev-landia) and [Luna bus](https://github.com/jvolima/lunabus)
 
 - 👨‍💻 All of my projects are available at [my_repository](https://github.com/jvolima?tab=repositories)
 
