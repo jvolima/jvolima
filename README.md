@@ -9,7 +9,7 @@
 
 - 📝 My [resume](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
 
-- 📱 Access my [portfolio](https://portifolio-cyhwaz2vc-jvolima.vercel.app/)
+- 📱 Access my [portfolio](https://portifolio-jvolima.vercel.app/)
 
 - 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
 
