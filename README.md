@@ -76,6 +76,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
 <details>
     <summary><strong>🛠 &nbsp;Skills</strong></summary>
+    <br />
     - Linguagens
     <div style="display: inline_block">
       <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />

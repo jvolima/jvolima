@@ -76,6 +76,7 @@ I like to develop projects with my friends based on ideas we think of. We are cu
 
 <details>
     <summary><strong>🛠 Skills</strong></summary>
+    <br />
     - Languages
     <div style="display: inline_block">
       <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
