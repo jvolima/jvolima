@@ -1,10 +1,14 @@
-<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jvolima/7d629e0aab32914bd096833298f1e871/raw/5be74fbb714401ec58365044175b55865f6cb2e0/githubcard.svg"/>-->
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<table align="right">
+ <tr><td><a href="./README_EN.md">:us: English</a></td></tr>
+ <tr><td><a href="./README.md">:brazil: Português</a></td></tr>
+</table>
+
 <h1 align="center">Olá 👋, Eu sou o João Vitor de Oliveira Lima</h1>
 
 <div style="display: flex; align-itens: center; justify-content: space-between"> 
   <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> 
-  <a href="./README_EN.md">English</a>
 </div>
 
 <br />
