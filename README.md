@@ -1,31 +1,31 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jvolima/7d629e0aab32914bd096833298f1e871/raw/5be74fbb714401ec58365044175b55865f6cb2e0/githubcard.svg"/>-->
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-<h1 align="center">Hi dear 👋, I'm João Vitor de Oliveira Lima</h1>
+<h1 align="center">Olá 👋, Eu sou o João Vitor de Oliveira Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvolima&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Frontend Developer
+- 🔥 Desenvolvedor Frontend Júnior
 
-- 🗣️ Advanced English
+- 🗣️ Inglês avançado
 
-- 📝 My [resume](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
+- 📝 Meu [currículo](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
 
-- 📱 Access my [portfolio](https://portifolio-jvolima.vercel.app/)
+- 📱 Acesse meu [portfólio](https://portifolio-jvolima.vercel.app/)
 
-- 🔭 I’m currently studying on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 Atualmente estou estudando na [Rocketseat](https://github.com/Rocketseat)
 
-- 💻 Developing [Devlândia](https://github.com/jvolima/dev-landia) and [Luna bus](https://github.com/jvolima/lunabus)
+- 💻 Projetos pessoais com maior destaque: [Devlândia](https://github.com/jvolima/dev-landia) e [Luna bus](https://lunabus.com.br)
 
-- 👨‍💻 All of my projects are available at [my_repository](https://github.com/jvolima?tab=repositories)
+- 👨‍💻 Todos meus projetos estão disponíveis no [meu repositório](https://github.com/jvolima?tab=repositories)
 
-- ▶️ I regulary post videos on [Do zero ao Dev](https://www.youtube.com/channel/UC9zaxB-gZdJf3DqveVMXfJQ)
+- ▶️ Participo do canal [Dev Lândia](https://www.youtube.com/@devlandia)
 
-- 💬 Ask me about **React, Typescript, Clean Code, TDD, Next and Node**
+- 💬 Me pergunte sobre **React, Typescript, Clean Architecture, TDD, Next and Node**
 
 <br>
 
 <div>
   <h3>
-    📬 Connect with me:
+    📬 Entre em contato comigo:
   </h3>
   <br />
   <a href="mailto:jvolima2004@gmail.com">
@@ -55,7 +55,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
