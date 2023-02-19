@@ -33,15 +33,11 @@ I like to develop projects with my friends based on ideas we think of. We are cu
 
   - 📱 [Portfolio](https://portifolio-jvolima.vercel.app/)
 
-  - 🔭 Currently I am studying on [Rocketseat](https://github.com/Rocketseat)
-
   - 💻 Outstanding personal projects: [Devlândia](https://github.com/jvolima/dev-landia) and [Luna bus](https://lunabus.com.br)
 
-  - 👨‍💻 All of my projects are available on [my repository](https://github.com/jvolima?tab=repositories)
+  - ▶️ I participate in the channel [DevLândia](https://www.youtube.com/@devlandia)
 
-  - ▶️ I participate in the channel [Dev Lândia](https://www.youtube.com/@devlandia)
-
-  - 💬 Ask me about **React, Typescript, Clean Architecture, TDD, Next and Node**
+  - 💬 Ask me about **React, Typescript, Clean Architecture, TDD, Jest, Next and SOLID**
 </details>
 
 <br />
