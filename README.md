@@ -13,19 +13,21 @@
 
 <br />
 
-<p>Atualmente estou focado no universo JavaScript,  estudando React para front-end e Node para back-end (De vez em quando brinco no mobile com o React Native)
+<p>Atualmente estou focado no desenvolvimento frontend com React, Typescript, TDD e Clean Architecture.
 
 Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No momento estamos desenvolvendo o Luna bus, um aplicativo de transporte público para cidades de pequeno e médio porte
 
-🚀"Great things come from hard work and perseverance. No excuses".🔥
+"Great things come from hard work and perseverance. No excuses".
 </p>
 
 <br />
 
 <details>
-  <summary><strong>👤 Sobre mim</strong></summary>
-
+  <summary><strong>👤 Sobre mim</strong></summary> 
+  
   - 🔥 Desenvolvedor Frontend Júnior
+
+  - 🎓 Técnico em informática integrado ao ensino médio no IFPR e cursando Bacharelado em Ciência da Computação na UFSCAR
 
   - 🗣️ Inglês avançado
 
