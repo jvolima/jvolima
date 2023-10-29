@@ -18,6 +18,7 @@
 I like to develop projects with my friends based on ideas we think of. We are currently developing Luna bus, a public transport app for small and medium-sized cities
 
 🚀"Great things come from hard work and perseverance. No excuses".🔥
+
 </p>
 
 <br />
@@ -25,19 +26,17 @@ I like to develop projects with my friends based on ideas we think of. We are cu
 <details>
   <summary><strong>👤 About me</strong></summary>
 
-  - 🔥 Junior Frontend Developer
+- 🔥 Fullstack Developer
 
-  - 🗣️ Advanced English
+- 🗣️ Advanced English
 
-  - 📝 [Resume](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
+- 🖥️ Member of the CATI Jr. and InkPen development team
 
-  - 📱 [Portfolio](https://portifolio-jvolima.vercel.app/)
+- 📝 [Resume](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
 
-  - 💻 Outstanding personal projects: [Devlândia](https://github.com/jvolima/dev-landia) and [Luna bus](https://lunabus.com.br)
+- 📱 [Portfolio](https://portifolio-jvolima.vercel.app/)
 
-  - ▶️ I participate in the channel [DevLândia](https://www.youtube.com/@devlandia)
-
-  - 💬 Ask me about **React, Typescript, Clean Architecture, TDD, Jest, Next and SOLID**
+- 💻 Outstanding personal projects: [Devlândia](https://github.com/jvolima/dev-landia) and [Luna bus](https://lunabus.com.br)
 </details>
 
 <br />
@@ -83,13 +82,13 @@ I like to develop projects with my friends based on ideas we think of. We are cu
     - Frontend
     <div style="display: inline_block">
       <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     </div>
     <br />
     - Backend
     <div style="display: inline_block">
+      <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img align="center" alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
       <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -128,4 +127,3 @@ I like to develop projects with my friends based on ideas we think of. We are cu
     </div>
   </div>
 </details>
-
