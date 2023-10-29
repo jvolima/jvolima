@@ -13,33 +13,32 @@
 
 <br />
 
-<p>Atualmente estou focado no desenvolvimento frontend com React, Typescript, TDD e Clean Architecture.
+<p>Atualmente estou focado no desenvolvimento fullstack com Spring Boot e React.
 
 Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No momento estamos desenvolvendo o Luna bus, um aplicativo de transporte público para cidades de pequeno e médio porte
 
 "Great things come from hard work and perseverance. No excuses".
+
 </p>
 
 <br />
 
 <details>
-  <summary><strong>👤 Sobre mim</strong></summary> 
-  
-  - 🔥 Desenvolvedor Frontend Júnior
+  <summary><strong>👤 Sobre mim</strong></summary>
 
-  - 🎓 Técnico em informática integrado ao ensino médio no IFPR e cursando Bacharelado em Ciência da Computação na UFSCAR
+- 🔥 Desenvolvedor Fullstack
 
-  - 🗣️ Inglês avançado
+- 🎓 Técnico em informática integrado ao ensino médio no IFPR e cursando Bacharelado em Ciência da Computação na UFSCAR
 
-  - 📝 [Currículo](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
+- 🗣️ Inglês avançado
 
-  - 📱 [Portfólio](https://portifolio-jvolima.vercel.app/)
+- 🖥️ Membro do time de desenvolvimento da CATI Jr. e da InkPen
 
-  - 💻 Projetos pessoais com maior destaque: [Devlândia](https://github.com/jvolima/dev-landia) e [Luna bus](https://lunabus.com.br)
+- 📝 [Currículo](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
 
-  - ▶️ Participo do canal [DevLândia](https://www.youtube.com/@devlandia)
+- 📱 [Portfólio](https://portifolio-jvolima.vercel.app/)
 
-  - 💬 Me pergunte sobre **React, Typescript, Clean Architecture, TDD, Next, Jest and SOLID**
+- 💻 Projetos pessoais com maior destaque: [Devlândia](https://github.com/jvolima/dev-landia) e [Luna bus](https://lunabus.com.br)
 </details>
 
 <br />
@@ -92,6 +91,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
     <br />
     - Backend
     <div style="display: inline_block">
+      <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img align="center" alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
       <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -130,4 +130,3 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
     </div>
   </div>
 </details>
-
