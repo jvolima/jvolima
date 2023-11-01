@@ -13,7 +13,7 @@
 
 <br />
 
-<p>I'm currently focused on the JavaScript universe, studying Node for the backend and React for the frontend (I play with React Native on mobile from time to time)
+<p>I'm currently focused on fullstack development with Spring Boot and React.
 
 I like to develop projects with my friends based on ideas we think of. We are currently developing Luna bus, a public transport app for small and medium-sized cities
 

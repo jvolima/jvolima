@@ -38,7 +38,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
 - 📱 [Portfólio](https://portifolio-jvolima.vercel.app/)
 
-- 💻 Projetos pessoais com maior destaque: [Devlândia](https://github.com/jvolima/dev-landia) e [Luna bus](https://lunabus.com.br)
+- 💻 Projetos pessoais com maior destaque: [Devlândia](https://github.com/jvolima/dev-landia), [Luna bus](https://lunabus.com.br), [Desafio backend do Pagar.me](https://github.com/jvolima/desafio-pagarme)
 </details>
 
 <br />
