@@ -13,12 +13,14 @@
 
 <br />
 
-<p>I'm currently focused on fullstack development with Spring Boot and React.
+<p>
+Software Engineer specialized in Java and JavaScript, focusing on Spring Boot, Node, Nest.js, React and Next.js.
 
-I like to develop projects with my friends based on ideas we think of. We are currently developing Luna bus, a public transport app for small and medium-sized cities
+Studying the area since 2019, I have experience in developing scalable applications, ensuring quality through automated tests (e2e, unit and integration) using JUnit, Jest or Vitest.
+
+I have expertise in performance optimization, using tools such as Docker, Redis and AWS, as well as configuring CI/CD pipelines with GitHub Actions and GitLab Pipeline to make deployment processes more agile and efficient.
 
 🚀"Great things come from hard work and perseverance. No excuses".🔥
-
 </p>
 
 <br />
@@ -28,15 +30,13 @@ I like to develop projects with my friends based on ideas we think of. We are cu
 
 - 🔥 Fullstack Developer
 
-- 🗣️ Advanced English
+- 🖥️ Techinal student @ CERN
 
-- 🖥️ Member of the CATI Jr. and InkPen development team
+- 🎓 Computer technician integrated into high school at IFPR and studying Bachelor's degree in Computer Science at UFSCAR
 
-- 📝 [Resume](https://docs.google.com/document/d/1i0MZyY3jptQRNlXkLgVSV7h-aMFPmCGdg2Wo1b-TcKU/edit?usp=sharing)
+- 🗣️ Advanced English and Intermediate French
 
-- 📱 [Portfolio](https://portifolio-jvolima.vercel.app/)
-
-- 💻 Outstanding personal projects: [Devlândia](https://github.com/jvolima/dev-landia) and [Luna bus](https://lunabus.com.br)
+- 📝 [Resume](./curriculum.pdf)
 </details>
 
 <br />
@@ -54,15 +54,10 @@ I like to develop projects with my friends based on ideas we think of. We are cu
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
         alt="instagram">
     </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-lima-36b573215">
+    <a href="https://www.linkedin.com/in/jvolima/">
       <img 
         src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
         alt="linked-in">
-    </a>
-    <a href="https://app.rocketseat.com.br/me/jvolima2004-1625102958210">
-      <img src="./Rocketseat-icon.png"  
-      height="27.5" 
-      alt="rocketseat">
     </a>
   </div>
 </details>
@@ -73,33 +68,39 @@ I like to develop projects with my friends based on ideas we think of. We are cu
     <summary><strong>🛠 Skills</strong></summary>
     <br />
     - Languages
-    <div style="display: inline_block">
+     <div style="display: inline_block">
       <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
       <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
       <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     </div>
     <br />
     - Frontend
     <div style="display: inline_block">
       <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+      <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+      <img align="center" alt="Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" />
+      <img align="center" alt="Nuxt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+      <img align="center" alt="Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
     </div>
     <br />
     - Backend
     <div style="display: inline_block">
       <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img align="center" alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+      <img align="center" alt="Nest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
       <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img align="center" alt="Mysql" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img align="center" alt="Liquibase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" />
     </div>
     <br />
     - Other technologies
     <div style="display: inline_block">
       <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+      <img align="center" alt="JUnit" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
+      <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
       <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     </div>
 </details>
 
@@ -120,10 +121,6 @@ I like to develop projects with my friends based on ideas we think of. We are cu
     <br>
     <div align="center">
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvolima&theme=radical"/>
-    </div>
-    <br> 
-    <div align="center">
-      <img src="http://github-readme-streak-stats.herokuapp.com/?user=jvolima&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
     </div>
   </div>
 </details>
